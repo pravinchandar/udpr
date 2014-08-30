@@ -6,7 +6,7 @@ I thought someone might find this useful.
 
 The program can be compiled and linked with pthreads using
 
-gcc *.c -lpthreads (Make sure you have pthreads_barrier_t support)
+gcc *.c -lpthreads (Make sure you have pthread_barrier_t support)
 
 and run as 
 
